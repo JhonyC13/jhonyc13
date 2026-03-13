@@ -41,4 +41,4 @@
   </a> 
 </div>
 
-![Snake animation](https://github.com/jhonyc13/jhonyc13/blob/output/github-contibution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/JhonyC13/jhonyc13/output/snake.svg" alt="Snake animation" />
