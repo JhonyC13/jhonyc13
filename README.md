@@ -4,7 +4,7 @@
 
 - 🖥️ Atualmente, estou cursando Sistemas de Informação pela <a href="https://www.facom.ufms.br/sistemas-de-informacao/">UFMS</a>
 - 💻 Sou técnico em informática, formado pelo <a href="https://www.ifms.edu.br/campi/campus-campo-grande/cursos/integrados/informatica">IFMS</a>
-- 👨‍💻 Trabalhei desenvolvendo jogos com o motor de jogos Godot 4.
+- 🎮 Trabalhei desenvolvendo jogos com o motor de jogos Godot 4.
 - 🌱 Estudando PHP.
 - 🤔 Estou procurando por oportunidades e estou disposto a aprender novas tecnologias.
 - 💬 contate-me no email: jonathanmarzurkiewicz@gmail.com
@@ -41,3 +41,4 @@
   </a> 
 </div>
 
+![Snake animation](https://github.com/jhonyc13/jhonyc13/blob/output/github-contibution-grid-snake.svg)
