@@ -12,9 +12,9 @@
 
 <div align="center">
   <a href="https://github.com/jhonyc13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonyc13&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonyc13&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
   <a href="https://github.com/jhonyc13">
-  <img height="180em" border-radius="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyc13&layout=compact&theme=dracula">
+  <img height="180em" border-radius="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonyc13&layout=compact&theme=dark">
 </div>
 
 <h2>🛠️ Linguagens, Ferramentas e Tecnologias: </h2>
