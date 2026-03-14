@@ -3,10 +3,11 @@
 ## Olá, sou o Jonathan 👋
 
 - 🖥️ Atualmente, estou cursando Sistemas de Informação pela <a href="https://www.facom.ufms.br/sistemas-de-informacao/">UFMS</a>
-- 💻 Sou técnico em informática, formado pelo <a href="https://www.ifms.edu.br/campi/campus-campo-grande/cursos/integrados/informatica">IFMS</a>
+- 💻 Sou técnico em informática, formado pelo <a href="https://www.ifms.edu.br/campi/campus-campo-grande/cursos/integrados/informatica">IFMS</a>.
 - 🎮 Trabalhei desenvolvendo jogos com o motor de jogos Godot 4.
 - 🌱 Estudando PHP.
 - 🤔 Estou procurando por oportunidades e estou disposto a aprender novas tecnologias.
+- 🔧 Confira alguns dos meus <a href="https://jhonyc13.github.io/personal-website/projects/">projetos</a>.
 - 💬 contate-me no email: jonathanmarzurkiewicz@gmail.com
 
 
